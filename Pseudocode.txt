@@ -1,0 +1,5 @@
+When the program begins, the player shall insert their name, age (only ages 21 and older), and how much money they are putting in (limit $5,000).
+Then, the player and dealer is dealt their two cards. The player can't see the dealers cards, but they can see their own and is only given five chances to obtain a card
+from the deck. Each of the five they are given a prompt on whether they want to just see who won or obtain a card. When they don't want to obtain a card, the dealers cards
+is shown and then a winner is shown. If the player loses, they don't gain any money, if they win they gain around 10% of what they put in. The game can be kept going until
+the player is at zero dollars.
